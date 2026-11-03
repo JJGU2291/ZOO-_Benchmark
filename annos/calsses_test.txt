@@ -1,0 +1,50 @@
+001 Flamingo
+002 Ostrich
+003 Demoiselle crane
+004 Parrot
+005 Rhinoceros
+006 Goose
+007 Kangaroo
+008 Ring-tailed lemur
+009 Rhesus macaque
+010 Rhesus macaque
+011 Rhesus macaque
+012 Rhesus macaque
+013 Rhesus macaque
+014 Rhesus macaque
+015 Rhesus macaque
+016 Sheep
+017 Elaphurus
+018 Tiger
+019 Tiger
+020 Ring-tailed lemur
+021 Asian black bear
+022 Rhesus macaque
+023 Alpaca
+024 Pigeon
+025 Flamingo
+026 Flamingo
+027 Ring-tailed lemur
+028 Ostrich
+029 Peafowl
+030 Peafowl
+031 Pigeon
+032 Zebra
+033 Hippopotamus
+034 Hippopotamus
+035 Meerkat
+036 Meerkat
+037 Wolf
+038 Red panda
+039 Zebra
+040 Zebra
+041 Black swan
+042 Flamingo
+043 Brown bear
+044 Brown bear
+045 White-naped crane
+046 White-naped crane
+047 Peafowl
+048 Emu
+049 Squirrel
+050 Cat

@@ -1,0 +1,334 @@
+001 Parrot
+001_2 Parrot
+002 Fox
+003 Parrot
+003_2 Parrot
+003_3 Parrot
+004 Parrot
+004_2 Parrot
+005 Ring-tailed lemur
+005_2 Ring-tailed lemur
+006 Parrot
+007 Parrot
+008 Parrot
+008_2 Parrot
+009 Parrot
+009_2 Parrot
+010 Pelican
+010_2 Pelican
+010_3 Pelican
+010_4 Pelican
+011 Pelican
+012 Parrot
+013 Zebra
+013_2 Zebra
+014 Black swan
+015 Meerkat
+016 Tiger
+017 Ring-tailed lemur
+018 Lion
+019 Elaphurus
+019_2 Elaphurus
+020 Elaphurus
+020_2 Elaphurus
+021 Elaphurus
+021_2 Elaphurus
+021_3 Elaphurus
+022 Asian black bear
+023 Brown bear
+024 Alpaca
+024_2 Alpaca
+025 Alpaca
+025_2 Alpaca
+026 Greylag goose
+027 White-naped crane
+028 White-naped crane
+029 Rhinoceros
+029_2 Rhinoceros
+030 Rhinoceros
+031 Zebra
+031_2 Zebra
+032 Elephant
+032_2 Elephant
+033 Elaphurus
+033_2 Elaphurus
+034 Elaphurus
+034_2 Elaphurus
+034_3 Elaphurus
+035 Tiger
+036 Tiger
+037 Tiger
+038 Whooper swan
+038_2 Whooper swan
+039 Tiger
+040 Tiger
+040_2 Tiger
+041 Tiger
+042 Whooper swan
+042_2 Whooper swan
+042_3 Whooper swan
+043 Sheep
+043_2 Sheep
+044 Ring-tailed lemur
+044_2 Ring-tailed lemur
+045 Whooper swan
+046 Rhesus macaque
+047 Elaphurus
+047_2 Elaphurus
+047_3 Elaphurus
+048 Elaphurus
+048_2 Elaphurus
+049 Brown bear
+050 Emu
+051 Brown bear
+052 Tiger
+053 Camel
+053_2 Camel
+054 Camel
+055 Camel
+056 Whooper swan
+056_2 Whooper swan
+056_3 Whooper swan
+057 White deer
+058 Horse
+059 Horse
+060 Horse
+061 Zebra
+062 Zebra
+063 Rhesus macaque
+064 Demoiselle crane
+064_2 Demoiselle crane
+064_3 Demoiselle crane
+065 Rhesus macaque
+065_2 Rhesus macaque
+066 Flamingo
+066_2 Flamingo
+067 Peafowl
+067_2 Peafowl
+068 Flamingo
+068_2 Flamingo
+068_3 Flamingo
+069 Ring-tailed lemur
+069_2 Ring-tailed lemur
+070 Rhinoceros
+070_2 Rhinoceros
+071 Peafowl
+072 Rhesus macaque
+072_2 Rhesus macaque
+072_3 Rhesus macaque
+072_4 Rhesus macaque
+073 Rhesus macaque
+074 Emu
+075 Emu
+075_2 Emu
+076 Emu
+076_2 Emu
+077 Squirrel
+078 Parrot
+078_2 Parrot
+079 Parrot
+080 Elaphurus
+080_2 Elaphurus
+080_3 Elaphurus
+081 White deer
+081_2 White deer
+081_3 White deer
+082 Peafowl
+083 Peafowl
+083_2 Peafowl
+084 Camel
+085 Pigeon
+085_2 Pigeon
+086 Rhinoceros
+087 Rhinoceros
+087_2 Rhinoceros
+088 Goose
+088_2 Goose
+089 Black swan
+090 Greylag goose
+090_2 Greylag goose
+091 Black swan
+092 Zebra
+092_2 Zebra
+093 Camel
+094 Sheep
+094_2 Sheep
+095 Alpaca
+096 Asian black bear
+096_2 Asian black bear
+097 Asian black bear
+098 Brown bear
+098_2 Asian black bear
+099 Siberian roe deer
+100 Siberian roe deer
+101 White deer
+102 White deer
+103 Parrot
+103_2 Parrot
+104 Parrot
+104_2 Parrot
+105 Elephant
+106 Elephant
+107 Elephant
+108 Elephant
+109 Elephant
+110 Elephant
+111 Pigeon
+111_2 Pigeon
+112 Pigeon
+112_2 Pigeon
+113 Pigeon
+114 Demoiselle crane
+115 Whooper swan
+115_2 Demoiselle crane
+115_3 Demoiselle crane
+116 Demoiselle crane
+116_2 Demoiselle crane
+117 Demoiselle crane
+117_2 Demoiselle crane
+118 Demoiselle crane
+118_2 Demoiselle crane
+119 Demoiselle crane
+120 Donkey
+121 Donkey
+122 Hippopotamus
+123 Greylag goose
+124 Rhesus macaque
+125 Rhesus macaque
+126 Rhesus macaque
+126_2 Rhesus macaque
+126_3 Rhesus macaque
+127 Rhesus macaque
+128 Rhesus macaque
+129 Ring-tailed lemur
+130 Flamingo
+130_2 Flamingo
+130_3 Flamingo
+130_4 Flamingo
+131 Asian black bear
+132 Emu
+133 Pigeon
+133_2 Pigeon
+134 Peafowl
+134_2 Peafowl
+135 Peafowl
+136 Peafowl
+137 Horse
+138 Horse
+139 Horse
+139_2 Horse
+140 Horse
+140_2 Horse
+140_3 Horse
+141 Brown bear
+142 Red panda
+143 Capybara
+144 Capybara
+145 Black swan
+146 Black swan
+147 Goose
+147_2 Goose
+148 Brown bear
+149 Pelican
+149_2 Pelican
+150 Emu
+150_2 Emu
+151 Meerkat
+152 Yak
+152_2 Yak
+153 Yak
+154 Alpaca
+155 Alpaca
+156 Alpaca
+157 Tiger
+158 Brown bear
+158_2 Brown bear
+159 Tiger
+160 Tiger
+161 Tiger
+162 Zebra
+162_2 Zebra
+162_3 Zebra
+162_4 Zebra
+163 Zebra
+163_2 Zebra
+163_3 Zebra
+163_4 Zebra
+164 Brown bear
+164_2 Asian black bear
+165 Giraffe
+165_2 Giraffe
+166 Elephant
+167 Elephant
+168 Elephant
+169 Elephant
+170 Elephant
+171 Meerkat
+172 Meerkat
+172_2 Meerkat
+173 Rhinoceros
+174 Rhinoceros
+175 Wolf
+176 Wolf
+177 Tiger
+177_2 Tiger
+178 Tiger
+178_2 Tiger
+179 Tiger
+180 Tiger
+181 Brown bear
+182 Yak
+183 Rhinoceros
+184 Lion
+184_2 Lion
+185 Alpaca
+186 Alpaca
+186_2 Alpaca
+187 Alpaca
+188 Alpaca
+189 Brown bear
+190 Asian black bear
+191 Asian black bear
+192 Asian black bear
+193 Asian black bear
+194 Brown bear
+195 Mallard
+196 Mallard
+197 Mallard
+198 Mallard
+199 Horse
+200 Horse
+201 Elephant
+202 Elephant
+203 Elephant
+204 Elephant
+205 Donkey
+206 Asian black bear
+207 Horse
+208 Alpaca
+208_2 Alpaca
+209 Yak
+210 Whooper swan
+211 Whooper swan
+212 Whooper swan
+213 Pelican
+214 Zebra
+215 Zebra
+215_2 Zebra
+216 Elaphurus
+217 Whooper swan
+218 Whooper swan
+219 Elaphurus
+219_2 Elaphurus
+219_3 Elaphurus
+220 Black swan
+221 Ring-tailed lemur
+221_2 Ring-tailed lemur
+222 Ring-tailed lemur
+223 Alpaca
+224 Sika deer
+225 Pelican
+226 Camel
+227 Yak
+227_2 Yak
+228 Yak
