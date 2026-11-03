@@ -4,6 +4,7 @@ ZOO++ is a multi-modal visual tracking benchmark for animal tracking. This repos
 
 ## Dataset
 
+![samples.png](samples.png)
 ZOO++ provides synchronised visible-light (RGB), depth, and infrared (IR) video data for animal tracking. The dataset contains 278 sequences: 228 training sequences and 50 testing sequences. It includes 108,548 temporally aligned frames per modality, bounding-box annotations, and challenge annotations. The 50 test sequences have dense, frame-by-frame annotations; the training annotations are sparse.
 
 The three modalities provide complementary visual cues:
