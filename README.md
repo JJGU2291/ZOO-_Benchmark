@@ -15,10 +15,12 @@ The three modalities provide complementary visual cues:
 The test set covers a range of species, target scales, and tracking challenges. The dataset paper reports image resolutions of 1920 x 1080 for RGB and depth and 640 x 512 for the native IR sensor images. It also provides affine transforms for mapping IR frames into the RGB/depth coordinate system.
 
 ### Download
+##### Download Link1: [Baidu](https://pan.baidu.com/s/1mBM-dUZ_pzmZYbCA_WUSYw?pwd=mmmm)
 
-The dataset and this evaluation code are available from the project repository:
+##### Download Link2: [Google: coming soon]
 
-**[ZOO++ Benchmark on GitHub](https://github.com/JJGU2291/ZOO-_Benchmark)**
+
+**[Evaluation Toolkit for ZOO++ Benchmark](https://github.com/JJGU2291/ZOO-_Benchmark)**
 
 Download the dataset files provided by the project and extract all parts. The complete extracted dataset is approximately **600 GB**. Ensure that all archive parts have been downloaded before extraction and that the destination drive has sufficient free space.
 
@@ -173,7 +175,7 @@ The MATLAB directory also includes attribute and modality-gain analysis scripts,
 
 If you use the dataset or evaluation toolkit in academic work, please cite the accompanying paper:
 
-> Jinjie Gu, Tianyang Xu, Yifan Pan, Xuefeng Zhu, Xiao-Jun Wu, and Josef Kittler. “A Multi-Modal Visual Tracking Benchmark for Animal Modelling and Analysis.” 2026.
+> Coming soon 
 
 Please also cite the original papers for any tracking methods included in your comparisons.
 
